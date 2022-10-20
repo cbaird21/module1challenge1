@@ -1,6 +1,6 @@
 # module1challenge1
 
-Work with a partner to implement the following user story:
+## User Story
 
 - AS A marketing agency
   I WANT a codebase that follows accessibility standards
